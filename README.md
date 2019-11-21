@@ -6,7 +6,7 @@
 
 - **My Favoret Video Game** 
 
-![Favoret Game](./bo2.jfif)
+![Favoret Game](./https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png/220px-Call_of_Duty_Black_Ops_II_box_artwork.png)
 
 
 # Summary
